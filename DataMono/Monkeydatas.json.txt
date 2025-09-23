@@ -1,0 +1,38 @@
+[
+   {
+      "Name": "Sebastian",
+      "Location": "Seattle",
+      "Details": "This little trouble maker lives in Seattle with James and loves traveling on adventures with James and tweeting @MotzMonkeys. He by far is an Android fanboy and is getting ready for the new Nexus 6P!",
+      "Image": "https://th.bing.com/th/id/OIP.4urzR2RqaPfxXX7jY1t2gwAAAA?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "Population": 1,
+      "Latitude": 47.606209,
+      "Longitude": -122.332071
+   },
+   {
+      "Name": "Henry",
+      "Location": "Phoenix",
+      "Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. His favorite platform is iOS by far and is excited for the new iPhone Xs!",
+      "Image": "https://th.bing.com/th/id/OIP.RL6QE4x6wOcQwOz0rt-iPwHaEK?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "Population": 1,
+      "Latitude": 33.448377,
+      "Longitude": -112.074037
+   },
+   {
+      "Name": "Red-shanked douc",
+      "Location": "Vietnam",
+      "Details": "The red-shanked douc is a species of Old World monkey, among the most colourful of all primates. The douc is an arboreal and diurnal monkey that eats and sleeps in the trees of the forest.",
+      "Image": "https://th.bing.com/th/id/R.fc3aecf6c910882dcfc00b3e6eebbfd1?rik=4W3bXCMPT4k8XQ&pid=ImgRaw&r=0",
+      "Population": 1300,
+      "Latitude": 16.111648,
+      "Longitude": 108.262122
+   },
+   {
+      "Name": "Mooch",
+      "Location": "Seattle",
+      "Details": "An adorable Monkey who is traveling the world with Heather and live tweets his adventures @MotzMonkeys. His favorite platform is iOS by far and is excited for the new iPhone 6s!",
+      "Image": "https://tse3.mm.bing.net/th/id/OIP.GOndHndOotzEhkZoP6l1WQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "Population": 1,
+      "Latitude": 47.608013,
+      "Longitude": -122.335167
+   }
+]
