@@ -1,0 +1,1730 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bulbasaur",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/001.png",
+    "tipos": [
+      "Planta",
+      "Veneno"
+    ],
+    "peso": "6.9 kg",
+    "altura": "0.7 m",
+    "descripcion": "Bulbasaur se puede ver durmiendo bajo una luz de sol brillante. Tiene una semilla en su espalda. Al absorber los rayos del sol, la semilla crece progresivamente."
+  },
+  {
+    "id": 2,
+    "nombre": "Ivysaur",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/002.png",
+    "tipos": [
+      "Planta",
+      "Veneno"
+    ],
+    "peso": "13 kg",
+    "altura": "1 m",
+    "descripcion": "Hay un capullo en la espalda de este Pokémon. Para soportar su peso, las patas y el tronco de Ivysaur se vuelven gruesos y fuertes. Si comienza a pasar más tiempo bajo la luz del sol, es una señal de que el capullo pronto florecerá en una gran flor."
+  },
+  {
+    "id": 3,
+    "nombre": "Venusaur",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/003.png",
+    "tipos": [
+      "Planta",
+      "Veneno"
+    ],
+    "peso": "100 kg",
+    "altura": "2 m",
+    "descripcion": "Hay una gran flor en la espalda de Venusaur. Se dice que la flor adquiere colores vivos si recibe mucha nutrición y luz solar. El aroma de la flor calma las emociones de las personas."
+  },
+  {
+    "id": 4,
+    "nombre": "Charmander",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/004.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "8.5 kg",
+    "altura": "0.6 m",
+    "descripcion": "La llama que arde en la punta de su cola es una indicación de sus emociones. La llama vacila cuando Charmander se divierte. Si el Pokémon se enfurece, la llama arde ferozmente."
+  },
+  {
+    "id": 5,
+    "nombre": "Charmeleon",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/005.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "19 kg",
+    "altura": "1.1 m",
+    "descripcion": "Charmeleon destruye sin piedad a sus enemigos usando sus afiladas garras. Si se encuentra con un enemigo fuerte, se vuelve agresivo. En este estado de excitación, la llama en la punta de su cola arde con un color blanco azulado."
+  },
+  {
+    "id": 6,
+    "nombre": "Charizard",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/006.png",
+    "tipos": [
+      "Fuego",
+      "Volador"
+    ],
+    "peso": "90.5 kg",
+    "altura": "1.7 m",
+    "descripcion": "Charizard vuela por el cielo en busca de oponentes poderosos. Exhala fuego de tal calor que derrite cualquier cosa. Sin embargo, nunca usa su aliento de fuego contra un oponente más débil que él."
+  },
+  {
+    "id": 7,
+    "nombre": "Squirtle",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/007.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "9 kg",
+    "altura": "0.5 m",
+    "descripcion": "El caparazón de Squirtle no se usa simplemente para protegerse. La forma redondeada del caparazón y los surcos en su superficie ayudan a minimizar la resistencia en el agua, lo que le permite a este Pokémon nadar a altas velocidades."
+  },
+  {
+    "id": 8,
+    "nombre": "Wartortle",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/008.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "22.5 kg",
+    "altura": "1 m",
+    "descripcion": "Su cola es grande y está cubierta con un pelaje rico y espeso. La cola se vuelve cada vez más profunda en color a medida que Wartortle envejece. Los rasguños en su caparazón son evidencia de la dureza de este Pokémon como luchador."
+  },
+  {
+    "id": 9,
+    "nombre": "Blastoise",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/009.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "85.5 kg",
+    "altura": "1.6 m",
+    "descripcion": "Blastoise tiene chorros de agua que sobresalen de su caparazón. Los chorros de agua son muy precisos. Pueden disparar balas de agua con la precisión suficiente para golpear latas vacías desde una distancia de más de 160 pies."
+  },
+  {
+    "id": 10,
+    "nombre": "Caterpie",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/010.png",
+    "tipos": [
+      "Insecto"
+    ],
+    "peso": "2.9 kg",
+    "altura": "0.3 m",
+    "descripcion": "Su cuerpo es suave y débil. En la naturaleza, su destino perpetuo es ser visto por otros como alimento."
+  },
+  {
+    "id": 11,
+    "nombre": "Metapod",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/011.png",
+    "tipos": [
+      "Insecto"
+    ],
+    "peso": "9.9 kg",
+    "altura": "0.7 m",
+    "descripcion": "Su caparazón duro no se agrieta ni un poco aunque Pikipek lo picotee, pero se volcará, derramando sus entrañas."
+  },
+  {
+    "id": 12,
+    "nombre": "Butterfree",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/012.png",
+    "tipos": [
+      "Insecto",
+      "Volador"
+    ],
+    "peso": "32 kg",
+    "altura": "1.1 m",
+    "descripcion": "El néctar de las flores bonitas es su comida favorita. En los campos de flores, tiene intensas batallas con Cutiefly por el territorio."
+  },
+  {
+    "id": 13,
+    "nombre": "Weedle",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/013.png",
+    "tipos": [
+      "Insecto",
+      "Veneno"
+    ],
+    "peso": "3.2 kg",
+    "altura": "0.3 m",
+    "descripcion": "Weedle tiene un sentido del olfato extremadamente agudo. Es capaz de distinguir sus tipos de hojas favoritas de las que no le gustan solo oliendo con su gran probóscide (nariz) roja."
+  },
+  {
+    "id": 14,
+    "nombre": "Kakuna",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/014.png",
+    "tipos": [
+      "Insecto",
+      "Veneno"
+    ],
+    "peso": "10 kg",
+    "altura": "0.6 m",
+    "descripcion": "Kakuna permanece prácticamente inmóvil mientras se aferra a un árbol. Sin embargo, en el interior, está extremadamente ocupado mientras se prepara para su próxima evolución. Esto es evidente por lo caliente que se vuelve el caparazón al tacto."
+  },
+  {
+    "id": 15,
+    "nombre": "Beedrill",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/015.png",
+    "tipos": [
+      "Insecto",
+      "Veneno"
+    ],
+    "peso": "29.5 kg",
+    "altura": "1 m",
+    "descripcion": "Beedrill es extremadamente territorial. Nadie debe acercarse a su nido, esto es por su propia seguridad. Si se enfurecen, atacarán en un furioso enjambre."
+  },
+  {
+    "id": 16,
+    "nombre": "Pidgey",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/016.png",
+    "tipos": [
+      "Normal",
+      "Volador"
+    ],
+    "peso": "1.8 kg",
+    "altura": "0.3 m",
+    "descripcion": "Pidgey tiene un sentido de la orientación extremadamente agudo. Es capaz de regresar a su nido sin fallar, sin importar cuán lejos se aleje de su entorno familiar."
+  },
+  {
+    "id": 17,
+    "nombre": "Pidgeotto",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/017.png",
+    "tipos": [
+      "Normal",
+      "Volador"
+    ],
+    "peso": "30 kg",
+    "altura": "1.1 m",
+    "descripcion": "Pidgeotto reclama una gran área como su propio territorio. Este Pokémon vuela, patrullando su espacio vital. Si su territorio es violado, no muestra piedad al castigar a fondo al enemigo con sus afiladas garras."
+  },
+  {
+    "id": 18,
+    "nombre": "Pidgeot",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/018.png",
+    "tipos": [
+      "Normal",
+      "Volador"
+    ],
+    "peso": "39.5 kg",
+    "altura": "1.5 m",
+    "descripcion": "Este Pokémon tiene un plumaje deslumbrante de plumas bellamente brillantes. Muchos entrenadores están cautivados por la sorprendente belleza de las plumas en su cabeza, lo que los obliga a elegir a Pidgeot como su Pokémon."
+  },
+  {
+    "id": 19,
+    "nombre": "Rattata",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/019.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "3.5 kg",
+    "altura": "0.3 m",
+    "descripcion": "Este Pokémon es común pero peligroso. Sus afilados incisivos pueden cortar fácilmente la madera dura."
+  },
+  {
+    "id": 20,
+    "nombre": "Raticate",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/020.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "18.5 kg",
+    "altura": "0.7 m",
+    "descripcion": "Sus bigotes son esenciales para mantener su equilibrio. No importa cuán amigable seas, se enojará y te morderá si tocas sus bigotes."
+  },
+  {
+    "id": 21,
+    "nombre": "Spearow",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/021.png",
+    "tipos": [
+      "Normal",
+      "Volador"
+    ],
+    "peso": "2 kg",
+    "altura": "0.3 m",
+    "descripcion": "Debido a sus alas cortas, no puede volar largas distancias. Vaga inquieto y picotea a los Pokémon insecto."
+  },
+  {
+    "id": 22,
+    "nombre": "Fearow",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/022.png",
+    "tipos": [
+      "Normal",
+      "Volador"
+    ],
+    "peso": "38 kg",
+    "altura": "1.2 m",
+    "descripcion": "En Alola, los Pokémon pez son su presa. Se le puede ver dando vueltas sobre el océano en busca de comida."
+  },
+  {
+    "id": 23,
+    "nombre": "Ekans",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/023.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "6.9 kg",
+    "altura": "2 m",
+    "descripcion": "Los huevos de los Pokémon pájaro son su comida favorita. Traga huevos enteros, por lo que a veces un huevo se le queda atascado y Ekans se desmaya."
+  },
+  {
+    "id": 24,
+    "nombre": "Arbok",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/024.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "65 kg",
+    "altura": "3.5 m",
+    "descripcion": "Este Pokémon tiene más de 20 variaciones de patrones que ha sido confirmado que se encuentran en su estómago. Algunos patrones de esos patrones tienen un miedo aterrador."
+  },
+  {
+    "id": 25,
+    "nombre": "Pikachu",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/025.png",
+    "tipos": [
+      "Eléctrico"
+    ],
+    "peso": "6 kg",
+    "altura": "0.4 m",
+    "descripcion": "Cada vez que Pikachu se encuentra con algo nuevo, lo golpea con una ráfaga de electricidad. Si ves una baya quemada, es evidencia de que Pikachu lo ha atacado por su gusto."
+  },
+  {
+    "id": 26,
+    "nombre": "Raichu",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/026.png",
+    "tipos": [
+      "Eléctrico"
+    ],
+    "peso": "30 kg",
+    "altura": "0.8 m",
+    "descripcion": "La cola larga de Raichu sirve para descargar electricidad al suelo, protegiendo a Raichu de recibir descargas eléctricas."
+  },
+  {
+    "id": 27,
+    "nombre": "Sandshrew",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/027.png",
+    "tipos": [
+      "Tierra"
+    ],
+    "peso": "12 kg",
+    "altura": "0.6 m",
+    "descripcion": "Sandshrew tiene la capacidad de enrollarse en una bola. Los desiertos de Kanto están cubiertos de agujeros hechos por Sandshrew."
+  },
+  {
+    "id": 28,
+    "nombre": "Sandslash",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/028.png",
+    "tipos": [
+      "Tierra"
+    ],
+    "peso": "29.5 kg",
+    "altura": "1 m",
+    "descripcion": "El cuerpo de Sandslash está cubierto de espinas. Se dice que si un Sandslash se enfrenta a un enemigo, su cuerpo se eriza."
+  },
+  {
+    "id": 29,
+    "nombre": "Nidoran♀",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/029.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "7 kg",
+    "altura": "0.4 m",
+    "descripcion": "Nidoran hembra tiene espinas que secretan veneno. Se sabe que Nidoran hembra libera su veneno y crea una flor venenosa que se usa para atacar a sus enemigos."
+  },
+  {
+    "id": 30,
+    "nombre": "Nidorina",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/030.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "20 kg",
+    "altura": "0.8 m",
+    "descripcion": "Nidorina tiene un cuerno en la frente que contiene veneno. Su habilidad de curación es mucho más débil que la de su homólogo macho, Nidoking."
+  },
+  {
+    "id": 31,
+    "nombre": "Nidoqueen",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/031.png",
+    "tipos": [
+      "Veneno",
+      "Tierra"
+    ],
+    "peso": "60 kg",
+    "altura": "1.3 m",
+    "descripcion": "Se dice que la Nidoqueen tiene la capacidad de cambiar la dirección del viento y la lluvia. Esta habilidad le permite proteger su nido de la lluvia y otros elementos que pueden dañarlo."
+  },
+  {
+    "id": 32,
+    "nombre": "Nidoran♂",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/032.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "9 kg",
+    "altura": "0.5 m",
+    "descripcion": "Nidoran macho tiene cuernos que se secretan con veneno. El cuerno se puede usar para atacar y puede emitir un veneno que paraliza a sus enemigos."
+  },
+  {
+    "id": 33,
+    "nombre": "Nidorino",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/033.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "19.5 kg",
+    "altura": "0.9 m",
+    "descripcion": "Nidorino es un Pokémon muy defensivo, que se esconde de sus enemigos detrás de una barrera de veneno. Nidorino también tiene una habilidad de curación que se puede usar para sanar sus heridas y las heridas de otros."
+  },
+  {
+    "id": 34,
+    "nombre": "Nidoking",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/034.png",
+    "tipos": [
+      "Veneno",
+      "Tierra"
+    ],
+    "peso": "62 kg",
+    "altura": "1.4 m",
+    "descripcion": "Se dice que el Nidoking tiene la capacidad de cambiar la dirección del viento y la lluvia. Esta habilidad le permite proteger su nido de la lluvia y otros elementos que pueden dañarlo."
+  },
+  {
+    "id": 35,
+    "nombre": "Clefairy",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/035.png",
+    "tipos": [
+      "Hada"
+    ],
+    "peso": "7.5 kg",
+    "altura": "0.6 m",
+    "descripcion": "Se dice que las Clefairy viven en las montañas. La gente dice que es porque el aire en las montañas es muy puro."
+  },
+  {
+    "id": 36,
+    "nombre": "Clefable",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/036.png",
+    "tipos": [
+      "Hada"
+    ],
+    "peso": "40 kg",
+    "altura": "1.3 m",
+    "descripcion": "Se dice que la Clefable tiene la capacidad de crear un campo de fuerza que puede proteger su nido de la lluvia y otros elementos que pueden dañarlo."
+  },
+  {
+    "id": 37,
+    "nombre": "Vulpix",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/037.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "9.9 kg",
+    "altura": "0.6 m",
+    "descripcion": "Vulpix tiene seis colas. Cuando Vulpix envejece, sus colas se vuelven más largas."
+  },
+  {
+    "id": 38,
+    "nombre": "Ninetales",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/038.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "19.9 kg",
+    "altura": "1.1 m",
+    "descripcion": "Se dice que Ninetales tiene la capacidad de crear un campo de fuerza que puede proteger su nido de la lluvia y otros elementos que pueden dañarlo."
+  },
+  {
+    "id": 39,
+    "nombre": "Jigglypuff",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/039.png",
+    "tipos": [
+      "Normal",
+      "Hada"
+    ],
+    "peso": "5.5 kg",
+    "altura": "0.5 m",
+    "descripcion": "Cuando la gente está molesta, Jigglypuff comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 40,
+    "nombre": "Wigglytuff",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/040.png",
+    "tipos": [
+      "Normal",
+      "Hada"
+    ],
+    "peso": "12 kg",
+    "altura": "1 m",
+    "descripcion": "Wigglytuff tiene un gran corazón. Cuando alguien está molesto, Wigglytuff comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 41,
+    "nombre": "Zubat",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/041.png",
+    "tipos": [
+      "Veneno",
+      "Volador"
+    ],
+    "peso": "7.5 kg",
+    "altura": "0.8 m",
+    "descripcion": "Zubat tiene alas que se asemejan a las de un murciélago. Cuando Zubat está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 42,
+    "nombre": "Golbat",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/042.png",
+    "tipos": [
+      "Veneno",
+      "Volador"
+    ],
+    "peso": "55 kg",
+    "altura": "1.6 m",
+    "descripcion": "Golbat tiene alas que se asemejan a las de un murciélago. Cuando Golbat está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 43,
+    "nombre": "Oddish",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/043.png",
+    "tipos": [
+      "Planta",
+      "Veneno"
+    ],
+    "peso": "5.4 kg",
+    "altura": "0.5 m",
+    "descripcion": "Oddish tiene una gran cabeza y una nariz. Oddish puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 44,
+    "nombre": "Gloom",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/044.png",
+    "tipos": [
+      "Planta",
+      "Veneno"
+    ],
+    "peso": "8.6 kg",
+    "altura": "0.8 m",
+    "descripcion": "Gloom tiene una gran nariz. Gloom puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 45,
+    "nombre": "Vileplume",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/045.png",
+    "tipos": [
+      "Planta",
+      "Veneno"
+    ],
+    "peso": "18.6 kg",
+    "altura": "1.2 m",
+    "descripcion": "Vileplume tiene una gran nariz. Vileplume puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 46,
+    "nombre": "Paras",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/046.png",
+    "tipos": [
+      "Insecto",
+      "Planta"
+    ],
+    "peso": "5.4 kg",
+    "altura": "0.3 m",
+    "descripcion": "Paras tiene una gran cabeza y una nariz. Paras puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 47,
+    "nombre": "Parasect",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/047.png",
+    "tipos": [
+      "Insecto",
+      "Planta"
+    ],
+    "peso": "29.5 kg",
+    "altura": "1 m",
+    "descripcion": "Parasect tiene una gran nariz. Parasect puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 48,
+    "nombre": "Venonat",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/048.png",
+    "tipos": [
+      "Insecto",
+      "Veneno"
+    ],
+    "peso": "30 kg",
+    "altura": "1 m",
+    "descripcion": "Venonat tiene alas. Cuando Venonat está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 49,
+    "nombre": "Venomoth",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/049.png",
+    "tipos": [
+      "Insecto",
+      "Veneno"
+    ],
+    "peso": "12.5 kg",
+    "altura": "1.5 m",
+    "descripcion": "Venomoth tiene alas. Cuando Venomoth está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 50,
+    "nombre": "Diglett",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/050.png",
+    "tipos": [
+      "Tierra"
+    ],
+    "peso": "0.8 kg",
+    "altura": "0.2 m",
+    "descripcion": "Diglett tiene una gran cabeza y una nariz. Diglett puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 51,
+    "nombre": "Dugtrio",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/051.png",
+    "tipos": [
+      "Tierra"
+    ],
+    "peso": "33.3 kg",
+    "altura": "0.7 m",
+    "descripcion": "Dugtrio tiene una gran cabeza y una nariz. Dugtrio puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 52,
+    "nombre": "Meowth",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/052.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "4.2 kg",
+    "altura": "0.4 m",
+    "descripcion": "Meowth tiene una cola larga. Cuando Meowth está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 53,
+    "nombre": "Persian",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/053.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "32 kg",
+    "altura": "1 m",
+    "descripcion": "Persian tiene una cola larga. Cuando Persian está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 54,
+    "nombre": "Psyduck",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/054.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "19.6 kg",
+    "altura": "0.8 m",
+    "descripcion": "Cuando Psyduck está estresado, su cabeza comienza a doler. Psyduck puede liberar una sustancia de sus glándulas que calma su dolor."
+  },
+  {
+    "id": 55,
+    "nombre": "Golduck",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/055.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "76.6 kg",
+    "altura": "1.7 m",
+    "descripcion": "Cuando Golduck está estresado, su cabeza comienza a doler. Golduck puede liberar una sustancia de sus glándulas que calma su dolor."
+  },
+  {
+    "id": 56,
+    "nombre": "Mankey",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/056.png",
+    "tipos": [
+      "Lucha"
+    ],
+    "peso": "28 kg",
+    "altura": "0.5 m",
+    "descripcion": "Mankey tiene un gran corazón. Cuando alguien está molesto, Mankey comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 57,
+    "nombre": "Primeape",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/057.png",
+    "tipos": [
+      "Lucha"
+    ],
+    "peso": "32 kg",
+    "altura": "1 m",
+    "descripcion": "Primeape tiene un gran corazón. Cuando alguien está molesto, Primeape comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 58,
+    "nombre": "Growlithe",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/058.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "19 kg",
+    "altura": "0.7 m",
+    "descripcion": "Growlithe es un Pokémon muy cariñoso. Cuando alguien está molesto, Growlithe comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 59,
+    "nombre": "Arcanine",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/059.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "155 kg",
+    "altura": "1.9 m",
+    "descripcion": "Arcanine es un Pokémon muy cariñoso. Cuando alguien está molesto, Arcanine comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 60,
+    "nombre": "Poliwag",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/060.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "12.4 kg",
+    "altura": "0.6 m",
+    "descripcion": "Poliwag tiene una cola larga. Cuando Poliwag está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 61,
+    "nombre": "Poliwhirl",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/061.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "20 kg",
+    "altura": "1 m",
+    "descripcion": "Poliwhirl tiene una cola larga. Cuando Poliwhirl está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 62,
+    "nombre": "Poliwrath",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/062.png",
+    "tipos": [
+      "Agua",
+      "Lucha"
+    ],
+    "peso": "54 kg",
+    "altura": "1.3 m",
+    "descripcion": "Poliwrath tiene una cola larga. Cuando Poliwrath está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 63,
+    "nombre": "Abra",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/063.png",
+    "tipos": [
+      "Psíquico"
+    ],
+    "peso": "19.5 kg",
+    "altura": "0.9 m",
+    "descripcion": "Abra es un Pokémon muy tímido. Cuando Abra está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 64,
+    "nombre": "Kadabra",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/064.png",
+    "tipos": [
+      "Psíquico"
+    ],
+    "peso": "56.5 kg",
+    "altura": "1.3 m",
+    "descripcion": "Kadabra es un Pokémon muy tímido. Cuando Kadabra está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 65,
+    "nombre": "Alakazam",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/065.png",
+    "tipos": [
+      "Psíquico"
+    ],
+    "peso": "48 kg",
+    "altura": "1.5 m",
+    "descripcion": "Alakazam es un Pokémon muy tímido. Cuando Alakazam está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 66,
+    "nombre": "Machop",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/066.png",
+    "tipos": [
+      "Lucha"
+    ],
+    "peso": "19.5 kg",
+    "altura": "0.8 m",
+    "descripcion": "Machop tiene una gran cabeza y una nariz. Machop puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 67,
+    "nombre": "Machoke",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/067.png",
+    "tipos": [
+      "Lucha"
+    ],
+    "peso": "70.5 kg",
+    "altura": "1.5 m",
+    "descripcion": "Machoke tiene una gran cabeza y una nariz. Machoke puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 68,
+    "nombre": "Machamp",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/068.png",
+    "tipos": [
+      "Lucha"
+    ],
+    "peso": "130 kg",
+    "altura": "1.6 m",
+    "descripcion": "Machamp tiene una gran cabeza y una nariz. Machamp puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 69,
+    "nombre": "Bellsprout",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/069.png",
+    "tipos": [
+      "Planta",
+      "Veneno"
+    ],
+    "peso": "4 kg",
+    "altura": "0.7 m",
+    "descripcion": "Bellsprout tiene una gran cabeza y una nariz. Bellsprout puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 70,
+    "nombre": "Weepinbell",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/070.png",
+    "tipos": [
+      "Planta",
+      "Veneno"
+    ],
+    "peso": "6.4 kg",
+    "altura": "1 m",
+    "descripcion": "Weepinbell tiene una gran cabeza y una nariz. Weepinbell puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 71,
+    "nombre": "Victreebel",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/071.png",
+    "tipos": [
+      "Planta",
+      "Veneno"
+    ],
+    "peso": "15.5 kg",
+    "altura": "1.7 m",
+    "descripcion": "Victreebel tiene una gran cabeza y una nariz. Victreebel puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 72,
+    "nombre": "Tentacool",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/072.png",
+    "tipos": [
+      "Agua",
+      "Veneno"
+    ],
+    "peso": "45.5 kg",
+    "altura": "0.9 m",
+    "descripcion": "Tentacool tiene tentáculos que se secretan con veneno. El veneno se puede usar para atacar y puede emitir un veneno que paraliza a sus enemigos."
+  },
+  {
+    "id": 73,
+    "nombre": "Tentacruel",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/073.png",
+    "tipos": [
+      "Agua",
+      "Veneno"
+    ],
+    "peso": "55 kg",
+    "altura": "1.6 m",
+    "descripcion": "Tentacruel tiene tentáculos que se secretan con veneno. El veneno se puede usar para atacar y puede emitir un veneno que paraliza a sus enemigos."
+  },
+  {
+    "id": 74,
+    "nombre": "Geodude",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/074.png",
+    "tipos": [
+      "Roca",
+      "Tierra"
+    ],
+    "peso": "20 kg",
+    "altura": "0.4 m",
+    "descripcion": "Geodude tiene un cuerpo que se asemeja a una roca. Su cuerpo es muy duro y puede soportar ataques de Pokémon más grandes."
+  },
+  {
+    "id": 75,
+    "nombre": "Graveler",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/075.png",
+    "tipos": [
+      "Roca",
+      "Tierra"
+    ],
+    "peso": "105 kg",
+    "altura": "1 m",
+    "descripcion": "Graveler tiene un cuerpo que se asemeja a una roca. Su cuerpo es muy duro y puede soportar ataques de Pokémon más grandes."
+  },
+  {
+    "id": 76,
+    "nombre": "Golem",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/076.png",
+    "tipos": [
+      "Roca",
+      "Tierra"
+    ],
+    "peso": "300 kg",
+    "altura": "1.4 m",
+    "descripcion": "Golem tiene un cuerpo que se asemeja a una roca. Su cuerpo es muy duro y puede soportar ataques de Pokémon más grandes."
+  },
+  {
+    "id": 77,
+    "nombre": "Ponyta",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/077.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "30 kg",
+    "altura": "1 m",
+    "descripcion": "Ponyta tiene una cola larga. Cuando Ponyta está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 78,
+    "nombre": "Rapidash",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/078.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "95 kg",
+    "altura": "1.7 m",
+    "descripcion": "Rapidash tiene una cola larga. Cuando Rapidash está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 79,
+    "nombre": "Slowpoke",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/079.png",
+    "tipos": [
+      "Agua",
+      "Psíquico"
+    ],
+    "peso": "36 kg",
+    "altura": "1.2 m",
+    "descripcion": "Slowpoke es un Pokémon muy lento. Cuando Slowpoke está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 80,
+    "nombre": "Slowbro",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/080.png",
+    "tipos": [
+      "Agua",
+      "Psíquico"
+    ],
+    "peso": "78.5 kg",
+    "altura": "1.6 m",
+    "descripcion": "Slowbro es un Pokémon muy lento. Cuando Slowbro está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 81,
+    "nombre": "Magnemite",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/081.png",
+    "tipos": [
+      "Eléctrico",
+      "Acero"
+    ],
+    "peso": "6 kg",
+    "altura": "0.3 m",
+    "descripcion": "Magnemite es un Pokémon muy cariñoso. Cuando alguien está molesto, Magnemite comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 82,
+    "nombre": "Magneton",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/082.png",
+    "tipos": [
+      "Eléctrico",
+      "Acero"
+    ],
+    "peso": "60 kg",
+    "altura": "1 m",
+    "descripcion": "Magneton es un Pokémon muy cariñoso. Cuando alguien está molesto, Magneton comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 83,
+    "nombre": "Farfetch'd",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/083.png",
+    "tipos": [
+      "Normal",
+      "Volador"
+    ],
+    "peso": "15 kg",
+    "altura": "0.8 m",
+    "descripcion": "Farfetch'd tiene alas que se asemejan a las de un murciélago. Cuando Farfetch'd está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 84,
+    "nombre": "Doduo",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/084.png",
+    "tipos": [
+      "Normal",
+      "Volador"
+    ],
+    "peso": "39.2 kg",
+    "altura": "1.4 m",
+    "descripcion": "Doduo tiene alas que se asemejan a las de un murciélago. Cuando Doduo está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 85,
+    "nombre": "Dodrio",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/085.png",
+    "tipos": [
+      "Normal",
+      "Volador"
+    ],
+    "peso": "85.2 kg",
+    "altura": "1.8 m",
+    "descripcion": "Dodrio tiene alas que se asemejan a las de un murciélago. Cuando Dodrio está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 86,
+    "nombre": "Seel",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/086.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "90 kg",
+    "altura": "1.1 m",
+    "descripcion": "Seel tiene una cola larga. Cuando Seel está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 87,
+    "nombre": "Dewgong",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/087.png",
+    "tipos": [
+      "Agua",
+      "Hielo"
+    ],
+    "peso": "120 kg",
+    "altura": "1.7 m",
+    "descripcion": "Dewgong tiene una cola larga. Cuando Dewgong está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 88,
+    "nombre": "Grimer",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/088.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "30 kg",
+    "altura": "0.9 m",
+    "descripcion": "Grimer tiene una cola larga. Cuando Grimer está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 89,
+    "nombre": "Muk",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/089.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "30 kg",
+    "altura": "1.2 m",
+    "descripcion": "Muk tiene una cola larga. Cuando Muk está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 90,
+    "nombre": "Shellder",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/090.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "4 kg",
+    "altura": "0.3 m",
+    "descripcion": "Shellder tiene un caparazón. Cuando Shellder está durmiendo, su caparazón se mueve para protegerse del sol."
+  },
+  {
+    "id": 91,
+    "nombre": "Cloyster",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/091.png",
+    "tipos": [
+      "Agua",
+      "Hielo"
+    ],
+    "peso": "132.5 kg",
+    "altura": "1.5 m",
+    "descripcion": "Cloyster tiene un caparazón. Cuando Cloyster está durmiendo, su caparazón se mueve para protegerse del sol."
+  },
+  {
+    "id": 92,
+    "nombre": "Gastly",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/092.png",
+    "tipos": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "peso": "0.1 kg",
+    "altura": "1.3 m",
+    "descripcion": "Gastly es un Pokémon muy tímido. Cuando Gastly está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 93,
+    "nombre": "Haunter",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/093.png",
+    "tipos": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "peso": "0.1 kg",
+    "altura": "1.6 m",
+    "descripcion": "Haunter es un Pokémon muy tímido. Cuando Haunter está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 94,
+    "nombre": "Gengar",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/094.png",
+    "tipos": [
+      "Fantasma",
+      "Veneno"
+    ],
+    "peso": "40.5 kg",
+    "altura": "1.5 m",
+    "descripcion": "Gengar es un Pokémon muy tímido. Cuando Gengar está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 95,
+    "nombre": "Onix",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/095.png",
+    "tipos": [
+      "Roca",
+      "Tierra"
+    ],
+    "peso": "210 kg",
+    "altura": "8.8 m",
+    "descripcion": "Onix tiene un cuerpo que se asemeja a una roca. Su cuerpo es muy duro y puede soportar ataques de Pokémon más grandes."
+  },
+  {
+    "id": 96,
+    "nombre": "Drowzee",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/096.png",
+    "tipos": [
+      "Psíquico"
+    ],
+    "peso": "32.4 kg",
+    "altura": "1 m",
+    "descripcion": "Drowzee es un Pokémon muy tímido. Cuando Drowzee está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 97,
+    "nombre": "Hypno",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/097.png",
+    "tipos": [
+      "Psíquico"
+    ],
+    "peso": "75.6 kg",
+    "altura": "1.6 m",
+    "descripcion": "Hypno es un Pokémon muy tímido. Cuando Hypno está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 98,
+    "nombre": "Krabby",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/098.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "6.5 kg",
+    "altura": "0.4 m",
+    "descripcion": "Krabby tiene un caparazón. Cuando Krabby está durmiendo, su caparazón se mueve para protegerse del sol."
+  },
+  {
+    "id": 99,
+    "nombre": "Kingler",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/099.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "60 kg",
+    "altura": "1.3 m",
+    "descripcion": "Kingler tiene un caparazón. Cuando Kingler está durmiendo, su caparazón se mueve para protegerse del sol."
+  },
+  {
+    "id": 100,
+    "nombre": "Voltorb",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/100.png",
+    "tipos": [
+      "Eléctrico"
+    ],
+    "peso": "10.4 kg",
+    "altura": "0.5 m",
+    "descripcion": "Voltorb tiene una cola larga. Cuando Voltorb está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 101,
+    "nombre": "Electrode",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/101.png",
+    "tipos": [
+      "Eléctrico"
+    ],
+    "peso": "66.6 kg",
+    "altura": "1.2 m",
+    "descripcion": "Electrode tiene una cola larga. Cuando Electrode está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 102,
+    "nombre": "Exeggcute",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/102.png",
+    "tipos": [
+      "Planta",
+      "Psíquico"
+    ],
+    "peso": "2.5 kg",
+    "altura": "0.4 m",
+    "descripcion": "Exeggcute tiene una gran cabeza y una nariz. Exeggcute puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 103,
+    "nombre": "Exeggutor",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/103.png",
+    "tipos": [
+      "Planta",
+      "Psíquico"
+    ],
+    "peso": "120 kg",
+    "altura": "2 m",
+    "descripcion": "Exeggutor tiene una gran cabeza y una nariz. Exeggutor puede oler el veneno en su comida y puede escupir veneno de su boca."
+  },
+  {
+    "id": 104,
+    "nombre": "Cubone",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/104.png",
+    "tipos": [
+      "Tierra"
+    ],
+    "peso": "6.5 kg",
+    "altura": "0.4 m",
+    "descripcion": "Cubone es un Pokémon muy triste. Cuando Cubone está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 105,
+    "nombre": "Marowak",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/105.png",
+    "tipos": [
+      "Tierra"
+    ],
+    "peso": "45 kg",
+    "altura": "1 m",
+    "descripcion": "Marowak es un Pokémon muy triste. Cuando Marowak está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 106,
+    "nombre": "Hitmonlee",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/106.png",
+    "tipos": [
+      "Lucha"
+    ],
+    "peso": "49.8 kg",
+    "altura": "1.5 m",
+    "descripcion": "Hitmonlee es un Pokémon muy cariñoso. Cuando alguien está molesto, Hitmonlee comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 107,
+    "nombre": "Hitmonchan",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/107.png",
+    "tipos": [
+      "Lucha"
+    ],
+    "peso": "50.2 kg",
+    "altura": "1.4 m",
+    "descripcion": "Hitmonchan es un Pokémon muy cariñoso. Cuando alguien está molesto, Hitmonchan comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 108,
+    "nombre": "Lickitung",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/108.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "65.5 kg",
+    "altura": "1.2 m",
+    "descripcion": "Lickitung tiene una cola larga. Cuando Lickitung está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 109,
+    "nombre": "Koffing",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/109.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "1 kg",
+    "altura": "0.6 m",
+    "descripcion": "Koffing tiene una cola larga. Cuando Koffing está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 110,
+    "nombre": "Weezing",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/110.png",
+    "tipos": [
+      "Veneno"
+    ],
+    "peso": "9.5 kg",
+    "altura": "1.2 m",
+    "descripcion": "Weezing tiene una cola larga. Cuando Weezing está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 111,
+    "nombre": "Rhyhorn",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/111.png",
+    "tipos": [
+      "Tierra",
+      "Roca"
+    ],
+    "peso": "115 kg",
+    "altura": "1 m",
+    "descripcion": "Rhyhorn tiene un cuerno que se secreta con veneno. El cuerno se puede usar para atacar y puede emitir un veneno que paraliza a sus enemigos."
+  },
+  {
+    "id": 112,
+    "nombre": "Rhydon",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/112.png",
+    "tipos": [
+      "Tierra",
+      "Roca"
+    ],
+    "peso": "120 kg",
+    "altura": "1.9 m",
+    "descripcion": "Rhydon tiene un cuerno que se secreta con veneno. El cuerno se puede usar para atacar y puede emitir un veneno que paraliza a sus enemigos."
+  },
+  {
+    "id": 113,
+    "nombre": "Chansey",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/113.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "34.6 kg",
+    "altura": "1.1 m",
+    "descripcion": "Chansey es un Pokémon muy cariñoso. Cuando alguien está molesto, Chansey comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 114,
+    "nombre": "Tangela",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/master/images/pokedex/sprites/114.png",
+    "tipos": [
+      "Planta"
+    ],
+    "peso": "35 kg",
+    "altura": "1 m",
+    "descripcion": "Tangela tiene una cola larga. Cuando Tangela está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 115,
+    "nombre": "Kangaskhan",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/115.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "80 kg",
+    "altura": "2.2 m",
+    "descripcion": "Kangaskhan es un Pokémon muy cariñoso. Cuando alguien está molesto, Kangaskhan comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 116,
+    "nombre": "Horsea",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/116.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "8 kg",
+    "altura": "0.4 m",
+    "descripcion": "Horsea tiene una cola larga. Cuando Horsea está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 117,
+    "nombre": "Seadra",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/117.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "25 kg",
+    "altura": "1.2 m",
+    "descripcion": "Seadra tiene una cola larga. Cuando Seadra está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 118,
+    "nombre": "Goldeen",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/118.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "15 kg",
+    "altura": "0.6 m",
+    "descripcion": "Goldeen tiene una cola larga. Cuando Goldeen está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 119,
+    "nombre": "Seaking",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/119.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "39 kg",
+    "altura": "1.3 m",
+    "descripcion": "Seaking tiene una cola larga. Cuando Seaking está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 120,
+    "nombre": "Staryu",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/120.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "34.5 kg",
+    "altura": "0.8 m",
+    "descripcion": "Staryu tiene una cola larga. Cuando Staryu está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 121,
+    "nombre": "Starmie",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/121.png",
+    "tipos": [
+      "Agua",
+      "Psíquico"
+    ],
+    "peso": "80 kg",
+    "altura": "1.1 m",
+    "descripcion": "Starmie tiene una cola larga. Cuando Starmie está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 122,
+    "nombre": "Mr. Mime",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/122.png",
+    "tipos": [
+      "Hada",
+      "Psíquico"
+    ],
+    "peso": "54.5 kg",
+    "altura": "1.3 m",
+    "descripcion": "Mr. Mime es un Pokémon muy tímido. Cuando Mr. Mime está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 123,
+    "nombre": "Scyther",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/123.png",
+    "tipos": [
+      "Insecto",
+      "Volador"
+    ],
+    "peso": "56 kg",
+    "altura": "1.5 m",
+    "descripcion": "Scyther tiene alas. Cuando Scyther está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 124,
+    "nombre": "Jynx",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/124.png",
+    "tipos": [
+      "Hielo",
+      "Psíquico"
+    ],
+    "peso": "40.6 kg",
+    "altura": "1.4 m",
+    "descripcion": "Jynx es un Pokémon muy cariñoso. Cuando alguien está molesto, Jynx comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 125,
+    "nombre": "Electabuzz",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/125.png",
+    "tipos": [
+      "Eléctrico"
+    ],
+    "peso": "30 kg",
+    "altura": "1.1 m",
+    "descripcion": "Electabuzz es un Pokémon muy cariñoso. Cuando alguien está molesto, Electabuzz comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 126,
+    "nombre": "Magmar",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/126.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "44.5 kg",
+    "altura": "1.3 m",
+    "descripcion": "Magmar es un Pokémon muy cariñoso. Cuando alguien está molesto, Magmar comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 127,
+    "nombre": "Pinsir",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/127.png",
+    "tipos": [
+      "Insecto"
+    ],
+    "peso": "55 kg",
+    "altura": "1.5 m",
+    "descripcion": "Pinsir tiene alas. Cuando Pinsir está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 128,
+    "nombre": "Tauros",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/128.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "88.4 kg",
+    "altura": "1.4 m",
+    "descripcion": "Tauros es un Pokémon muy cariñoso. Cuando alguien está molesto, Tauros comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 129,
+    "nombre": "Magikarp",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/129.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "10 kg",
+    "altura": "0.9 m",
+    "descripcion": "Magikarp es un Pokémon muy débil. Cuando Magikarp está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 130,
+    "nombre": "Gyarados",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/130.png",
+    "tipos": [
+      "Agua",
+      "Volador"
+    ],
+    "peso": "235 kg",
+    "altura": "6.5 m",
+    "descripcion": "Gyarados es un Pokémon muy débil. Cuando Gyarados está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 131,
+    "nombre": "Lapras",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/131.png",
+    "tipos": [
+      "Agua",
+      "Hielo"
+    ],
+    "peso": "220 kg",
+    "altura": "2.5 m",
+    "descripcion": "Lapras es un Pokémon muy cariñoso. Cuando alguien está molesto, Lapras comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 132,
+    "nombre": "Ditto",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/132.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "4 kg",
+    "altura": "0.3 m",
+    "descripcion": "Ditto tiene la capacidad de transformarse en cualquier cosa. Esta habilidad le permite transformarse en cualquier Pokémon y también en cualquier objeto."
+  },
+  {
+    "id": 133,
+    "nombre": "Eevee",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/133.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "6.5 kg",
+    "altura": "0.3 m",
+    "descripcion": "Eevee es un Pokémon muy tímido. Cuando Eevee está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 134,
+    "nombre": "Vaporeon",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/134.png",
+    "tipos": [
+      "Agua"
+    ],
+    "peso": "29 kg",
+    "altura": "1 m",
+    "descripcion": "Vaporeon tiene una cola larga. Cuando Vaporeon está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 135,
+    "nombre": "Jolteon",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/135.png",
+    "tipos": [
+      "Eléctrico"
+    ],
+    "peso": "24.5 kg",
+    "altura": "0.8 m",
+    "descripcion": "Jolteon tiene una cola larga. Cuando Jolteon está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 136,
+    "nombre": "Flareon",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/136.png",
+    "tipos": [
+      "Fuego"
+    ],
+    "peso": "25 kg",
+    "altura": "0.9 m",
+    "descripcion": "Flareon tiene una cola larga. Cuando Flareon está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 137,
+    "nombre": "Porygon",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/137.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "36.5 kg",
+    "altura": "0.8 m",
+    "descripcion": "Porygon tiene una cola larga. Cuando Porygon está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 138,
+    "nombre": "Omanyte",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/138.png",
+    "tipos": [
+      "Roca",
+      "Agua"
+    ],
+    "peso": "7.5 kg",
+    "altura": "0.4 m",
+    "descripcion": "Omanyte tiene un cuerpo que se asemeja a una roca. Su cuerpo es muy duro y puede soportar ataques de Pokémon más grandes."
+  },
+  {
+    "id": 139,
+    "nombre": "Omastar",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/139.png",
+    "tipos": [
+      "Roca",
+      "Agua"
+    ],
+    "peso": "35 kg",
+    "altura": "1 m",
+    "descripcion": "Omastar tiene un cuerpo que se asemeja a una roca. Su cuerpo es muy duro y puede soportar ataques de Pokémon más grandes."
+  },
+  {
+    "id": 140,
+    "nombre": "Kabuto",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/140.png",
+    "tipos": [
+      "Roca",
+      "Agua"
+    ],
+    "peso": "11.5 kg",
+    "altura": "0.5 m",
+    "descripcion": "Kabuto tiene un cuerpo que se asemeja a una roca. Su cuerpo es muy duro y puede soportar ataques de Pokémon más grandes."
+  },
+  {
+    "id": 141,
+    "nombre": "Kabutops",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/141.png",
+    "tipos": [
+      "Roca",
+      "Agua"
+    ],
+    "peso": "40.5 kg",
+    "altura": "1.3 m",
+    "descripcion": "Kabutops tiene un cuerpo que se asemeja a una roca. Su cuerpo es muy duro y puede soportar ataques de Pokémon más grandes."
+  },
+  {
+    "id": 142,
+    "nombre": "Aerodactyl",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/142.png",
+    "tipos": [
+      "Roca",
+      "Volador"
+    ],
+    "peso": "59 kg",
+    "altura": "1.8 m",
+    "descripcion": "Aerodactyl tiene alas que se asemejan a las de un murciélago. Cuando Aerodactyl está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 143,
+    "nombre": "Snorlax",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/143.png",
+    "tipos": [
+      "Normal"
+    ],
+    "peso": "460 kg",
+    "altura": "2.1 m",
+    "descripcion": "Snorlax es un Pokémon muy cariñoso. Cuando alguien está molesto, Snorlax comienza a llorar. A medida que su voz se vuelve más fuerte, la gente comienza a calmarse y a relajarse."
+  },
+  {
+    "id": 144,
+    "nombre": "Articuno",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/144.png",
+    "tipos": [
+      "Hielo",
+      "Volador"
+    ],
+    "peso": "55.4 kg",
+    "altura": "1.7 m",
+    "descripcion": "Articuno tiene alas. Cuando Articuno está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 145,
+    "nombre": "Zapdos",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/145.png",
+    "tipos": [
+      "Eléctrico",
+      "Volador"
+    ],
+    "peso": "52.6 kg",
+    "altura": "1.6 m",
+    "descripcion": "Zapdos tiene alas. Cuando Zapdos está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 146,
+    "nombre": "Moltres",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/146.png",
+    "tipos": [
+      "Fuego",
+      "Volador"
+    ],
+    "peso": "60 kg",
+    "altura": "2 m",
+    "descripcion": "Moltres tiene alas. Cuando Moltres está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 147,
+    "nombre": "Dratini",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/147.png",
+    "tipos": [
+      "Dragón"
+    ],
+    "peso": "3.3 kg",
+    "altura": "1.8 m",
+    "descripcion": "Dratini tiene una cola larga. Cuando Dratini está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 148,
+    "nombre": "Dragonair",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/148.png",
+    "tipos": [
+      "Dragón"
+    ],
+    "peso": "16.5 kg",
+    "altura": "4 m",
+    "descripcion": "Dragonair tiene una cola larga. Cuando Dragonair está durmiendo, su cola se mueve para protegerse del sol."
+  },
+  {
+    "id": 149,
+    "nombre": "Dragonite",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/149.png",
+    "tipos": [
+      "Dragón",
+      "Volador"
+    ],
+    "peso": "210 kg",
+    "altura": "2.2 m",
+    "descripcion": "Dragonite tiene alas. Cuando Dragonite está durmiendo, sus alas se mueven para protegerse del sol."
+  },
+  {
+    "id": 150,
+    "nombre": "Mewtwo",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/150.png",
+    "tipos": [
+      "Psíquico"
+    ],
+    "peso": "122 kg",
+    "altura": "2 m",
+    "descripcion": "Mewtwo es un Pokémon muy tímido. Cuando Mewtwo está estresado, su cabeza comienza a doler."
+  },
+  {
+    "id": 151,
+    "nombre": "Mew",
+    "imagen": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/sprites/151.png",
+    "tipos": [
+      "Psíquico"
+    ],
+    "peso": "4 kg",
+    "altura": "0.4 m",
+    "descripcion": "Mew tiene la capacidad de transformarse en cualquier cosa. Esta habilidad le permite transformarse en cualquier Pokémon y también en cualquier objeto."
+  }
+]
