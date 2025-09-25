@@ -1,0 +1,17 @@
+[
+  {
+    "Title": "Comprar alimentos",
+    "Description": "Comprar frutas, verduras y pan.",
+    "IsCompleted": false
+  },
+  {
+    "Title": "Estudiar C#",
+    "Description": "Repasar conceptos de programación en C# y MAUI.",
+    "IsCompleted": false
+  },
+  {
+    "Title": "Hacer ejercicio",
+    "Description": "Realizar 30 minutos de caminata.",
+    "IsCompleted": false
+  }
+]
