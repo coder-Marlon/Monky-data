@@ -1,0 +1,11 @@
+{
+  "users": [
+    { "id": 1, "name": "Juan", "email": "juan@mail.com" },
+    { "id": 2, "name": "María", "email": "maria@mail.com" },
+    { "id": 3, "name": "Luis", "email": "luis@mail.com" }
+  ],
+  "todos": [
+    { "id": 1, "task": "Estudiar .NET MAUI", "done": false },
+    { "id": 2, "task": "Hacer ejercicio", "done": true }
+  ]
+}
