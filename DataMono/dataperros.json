@@ -1,0 +1,318 @@
+{
+  "productos_perros": {
+    "alimentos": [
+      {
+        "nombre": "Alimento para Perro Ganador Premium Adulto",
+        "imagen": "https://tse2.mm.bing.net/th/id/OIP.CGXGfIntBQPyIqNsSiSPTwHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Alimento seco con alto contenido de proteínas y vitaminas para mantener la energía y el pelaje saludable.",
+        "categoria": "Alimento completo",
+        "dirigido_a": "Perros adulto",
+        "sabor": "Pollo y arroz",
+        "contenido": "15 kg",
+        "precio": "$799 MXN"
+      },
+      {
+        "nombre": "Alimento Poder Canino",
+        "imagen": "https://www.distribuidoraeltio.com.mx/cdn/shop/products/PoderCanino25kg.png?v=1655317739&width=1426",
+        "descripcion": "Comida seca balanceada para perros adultos, ideal para mantener fuerza y vitalidad a bajo costo.",
+        "categoria": "Alimento completo",
+        "dirigido_a": "Perro adulto",
+        "sabor": "Carne y pollo",
+        "contenido": "25 kg",
+        "precio": "$527.80 MXN"
+      },
+      {
+        "nombre": "Pro Plan Adulto Razas Medianas",
+        "imagen": "https://foopy.pe/wp-content/uploads/2022/10/Proplan-Adulto-Razas-Medianas-3kg.png",
+        "descripcion": "Fórmula premium de Purina con antioxidantes y proteínas para perros de raza mediana.",
+        "categoria": "Alimento premium",
+        "dirigido_a": "Perro adulto raza mediana",
+        "sabor": "Pollo",
+        "contenido": "3 kg",
+        "precio": "$610 MXN"
+      },
+      {
+        "nombre": "Nupec Cachorro",
+        "imagen": "https://lafarmascota.com/wp-content/uploads/2020/04/nupec-cachorro.jpg",
+        "descripcion": "Alimento mexicano de alta calidad con DHA y proteínas para el desarrollo de cachorros.",
+        "categoria": "Alimento premium",
+        "dirigido_a": "Perro cachorro",
+        "sabor": "Pollo",
+        "contenido": "20 kg",
+        "precio": "$850 MXN"
+      },
+      {
+        "nombre": "Nupec Sensitive",
+        "imagen": "https://th.bing.com/th/id/R.e83e1dc086243c4b4c3bc2d76a04cd3e?rik=LLbhIh1txzNNiQ&pid=ImgRaw&r=0",
+        "descripcion": "Alimento hipoalergénico para perros con piel sensible o problemas digestivos.",
+        "categoria": "Alimento especial",
+        "dirigido_a": "Perro adulto",
+        "sabor": "Cordero y arroz",
+        "contenido": "8 kg",
+        "precio": "$890 MXN"
+      }
+    ],
+    "juguetes": [
+      {
+        "nombre": "Hueso de Cuerda Fancy Pets",
+        "imagen": "https://laikapp.s3.amazonaws.com/dev_images_products/6413b741e85572662e87b14308e64cb0_1689165046.jpg",
+        "descripcion": "Juguete de cuerda duradera en forma de hueso, ideal para jugar y limpiar dientes.",
+        "categoria": "Juguete de tirar",
+        "dirigido_a": "Perro cachorro o adulto",
+        "tipo": "Masticable",
+        "contenido": "1 pieza",
+        "precio": "$163 MXN"
+      },
+      {
+        "nombre": "Pelota de Caucho Zoomy",
+        "imagen": "https://tse1.mm.bing.net/th/id/OIP.P4nh-GlBHs_aAwUcR24ceAHaGZ?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Pelota resistente fabricada en México, ideal para juegos de lanzar y traer.",
+        "categoria": "Juguete interactivo",
+        "dirigido_a": "Perro adulto o cachorro",
+        "tipo": "Rebote alto",
+        "contenido": "1 pieza",
+        "precio": "$120 MXN"
+      },
+      {
+        "nombre": "Mordedera con sonido Paw Mate",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_693090-MLM31910916663_082019-O.jpg",
+        "descripcion": "Juguete de hule con sonido que estimula el juego y alivia la ansiedad.",
+        "categoria": "Juguete sonoro",
+        "dirigido_a": "Perro cachorro o adulto",
+        "tipo": "Masticable",
+        "contenido": "1 pieza",
+        "precio": "$95 MXN"
+      },
+      {
+        "nombre": "Disco volador Fancy Pets",
+        "imagen": "https://www.drpet.cl/608-large_default/jug-disco-volador.jpg",
+        "descripcion": "Disco de plástico flexible para entrenamiento o diversión al aire libre.",
+        "categoria": "Juguete de ejercicio",
+        "dirigido_a": "Perro adulto",
+        "tipo": "Lanzar",
+        "contenido": "1 pieza",
+        "precio": "$110 MXN"
+      },
+      {
+        "nombre": "Peluche “Pinguino Feliz” Zoomy",
+        "imagen": "https://ik.imagekit.io/autoenlinea/imgjpg/194946.jpg?version=23/07/2024",
+        "descripcion": "Peluche con chirrido para juegos suaves, ideal para perros pequeños.",
+        "categoria": "Juguete de peluche",
+        "dirigido_a": "Perro pequeño",
+        "tipo": "Suave",
+        "contenido": "1 pieza",
+        "precio": "$130 MXN"
+      }
+    ],
+    "otros": [
+      {
+        "nombre": "Shampoo Nupec Derma",
+        "imagen": "https://tse1.mm.bing.net/th/id/OIP.CquhsaknwQVzR5VTrJ0E-wHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Shampoo dermatológico hipoalergénico para piel sensible.",
+        "categoria": "Higiene",
+        "dirigido_a": "Perro adulto o cachorro",
+        "tipo": "Shampoo",
+        "contenido": "5 botellas de 250 ml",
+        "precio": "$170 MXN"
+      },
+      {
+        "nombre": "Collar Antipulgas Bayer",
+        "imagen": "https://http2.mlstatic.com/seresto-collar-bayer-antigarrapatas-antipulgas-perro-grande-D_NQ_NP_607280-MLM31219160591_062019-F.jpg",
+        "descripcion": "Collar con protección contra pulgas y garrapatas por hasta 8 meses.",
+        "categoria": "Cuidado y salud",
+        "dirigido_a": "Perro adulto",
+        "tipo": "Antiparasitario",
+        "contenido": "1 collar",
+        "precio": "$480 MXN"
+      },
+      {
+        "nombre": "Camita Zoomy Confort",
+        "imagen": "https://tse2.mm.bing.net/th/id/OIP.sWK9ZnpH15o1PclTrWrnbQHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Cama acolchada con diseño ergonómico y tela lavable.",
+        "categoria": "Descanso",
+        "dirigido_a": "Perro de cualquier edad",
+        "tipo": "Accesorio",
+        "contenido": "1 pieza",
+        "precio": "$590 MXN"
+      },
+      {
+        "nombre": "Peine Fancy Pets",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_928027-MLU77103716582_062024-O.webp",
+        "descripcion": "Peine doble para desenredar y eliminar pelo muerto.",
+        "categoria": "Higiene y cuidado",
+        "dirigido_a": "Perro adulto o cachorro",
+        "tipo": "Cepillo",
+        "contenido": "1 pieza",
+        "precio": "$90 MXN"
+      },
+      {
+        "nombre": "Arnés Ajustable Zoomy",
+        "imagen": "https://cdnx.jumpseller.com/el-mundo-de-nala/image/40251210/1695837739557.jpg?1695837941",
+        "descripcion": "Arnés de tela reforzada con hebilla de seguridad.",
+        "categoria": "Paseo",
+        "dirigido_a": "Perro mediano o grande",
+        "tipo": "Accesorio",
+        "contenido": "1 pieza",
+        "precio": "$220 MXN"
+      }
+    ]
+  },
+  "productos_gatos": {
+    "alimentos": [
+      {
+        "nombre": "Purina Cat Chow Adulto",
+        "imagen": "https://tse3.mm.bing.net/th/id/OIP.WFgSYhE21f5TdMlKgKr08AHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Alimento seco con proteína y omega 6 para gatos adultos.",
+        "categoria": "Alimento completo",
+        "dirigido_a": "Gato adulto",
+        "sabor": "Pollo",
+        "contenido": "3 kg",
+        "precio": "$799 MXN"
+      },
+      {
+        "nombre": "Nupec Felino Adulto",
+        "imagen": "https://www.petngo.com.mx/cdn/shop/files/FelinoAdultoIndoorNupec5.0kg-Imagen1PetN_Go_b5cd1131-1c08-43fc-9762-4cf5efe5192c.jpg?v=1729018674",
+        "descripcion": "Alimento mexicano con proteína de pollo y antioxidantes naturales.",
+        "categoria": "Alimento premium",
+        "dirigido_a": "Gato adulto",
+        "sabor": "Pollo",
+        "contenido": "5 kg",
+        "precio": "$540 MXN"
+      },
+      {
+        "nombre": "Felix Sensaciones en Salsa",
+        "imagen": "https://www.fybeca.com/dw/image/v2/BDPM_PRD/on/demandware.static/-/Sites-masterCatalog_FybecaEcuador/default/dwdd586076/images/large/100149345-ALIMENTO-PURINA-FELIX-SENSACIONES-DE-SALMON-Y-PAVO-EN-SALSA-24X85G-PAQUETE.jpg?sw=1000&sh=1000",
+        "descripcion": "Alimento húmedo con trozos de carne en salsa.",
+        "categoria": "Alimento húmedo",
+        "dirigido_a": "Gato adulto",
+        "sabor": "Res y pollo",
+        "contenido": "85 g (sobre)",
+        "precio": "$18 MXN"
+      },
+      {
+        "nombre": "Whiskas Gatito",
+        "imagen": "https://tse1.mm.bing.net/th/id/OIP.X2kkrudbKMJjvwbOmhnHoQHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Alimento seco formulado con calcio y vitaminas para el crecimiento saludable.",
+        "categoria": "Alimento completo",
+        "dirigido_a": "Gatito (0–12 meses)",
+        "sabor": "Pollo y leche",
+        "contenido": "85 g",
+        "precio": "$17 MXN"
+      },
+      {
+        "nombre": "Pro Plan Sterilized",
+        "imagen": "https://static.zoomalia.com/prod_img/11506/la_825d554f7bb7be44a7267068a7df88ddd201676622608.jpg",
+        "descripcion": "Fórmula para gatos esterilizados, ayuda a controlar peso y salud urinaria.",
+        "categoria": "Alimento especializado",
+        "dirigido_a": "Gato adulto esterilizado",
+        "sabor": "Salmón",
+        "contenido": "3 kg",
+        "precio": "$650 MXN"
+      }
+    ],
+    "juguetes": [
+      {
+        "nombre": "Ratón de Peluche Fancy Pets",
+        "imagen": "https://tse2.mm.bing.net/th/id/OIP.zIzMtLRm90EaZlM6_mIDtgHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Juguete relleno con catnip que estimula el instinto cazador.",
+        "categoria": "Juguete interactivo",
+        "dirigido_a": "Gato adulto o gatito",
+        "tipo": "Catnip",
+        "contenido": "1 pieza",
+        "precio": "$85 MXN"
+      },
+      {
+        "nombre": "Varita con Plumas Zoomy",
+        "imagen": "https://tse4.mm.bing.net/th/id/OIP.nmp67EqeQnJP2NM4YWEB0AAAAA?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Varita flexible con plumas de colores, ideal para sesiones de juego activo.",
+        "categoria": "Juguete de movimiento",
+        "dirigido_a": "Gato de cualquier edad",
+        "tipo": "Interactivo",
+        "contenido": "1 pieza",
+        "precio": "$120 MXN"
+      },
+      {
+        "nombre": "Túnel Plegable para Gato",
+        "imagen": "https://i5.walmartimages.com.mx/mg/gm/3pp/asr/5af8b4b0-272e-4223-a2c0-d508de04ab7e.a4b81393b71672e7dffdbecd88e8cfc0.jpeg?odnHeight=2000&odnWidth=2000&odnBg=ffffff",
+        "descripcion": "Túnel de tela resistente con orificios para explorar y esconderse.",
+        "categoria": "Juguete de exploración",
+        "dirigido_a": "Gato adulto o gatito",
+        "tipo": "Interactivo",
+        "contenido": "1 túnel",
+        "precio": "$290 MXN"
+      },
+      {
+        "nombre": "Pelotas con Cascabel Fancy Pets",
+        "imagen": "https://tse4.mm.bing.net/th/id/OIP.DnP2rkuUQgCL43_PCQ_nygHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Juego de 4 pelotas con cascabel para entretenimiento.",
+        "categoria": "Juguete sonoro",
+        "dirigido_a": "Gato adulto o gatito",
+        "tipo": "Sensorial",
+        "contenido": "4 piezas",
+        "precio": "$95 MXN"
+      },
+      {
+        "nombre": "Ratones de Tela con Catnip",
+        "imagen": "https://rondacan.com/wp-content/uploads/2021/07/raton-gato-4.png",
+        "descripcion": "Pack de pequeños ratones aromatizados con catnip.",
+        "categoria": "Juguete estimulante",
+        "dirigido_a": "Gato adulto",
+        "tipo": "Catnip",
+        "contenido": "2 piezas",
+        "precio": "$130 MXN"
+      }
+    ],
+    "otros": [
+      {
+        "nombre": "Arena para Gato Absorsol Premium",
+        "imagen": "https://dojiw2m9tvv09.cloudfront.net/22023/product/image8768.jpg?85",
+        "descripcion": "Arena aglutinante con control de olores y aroma fresco.",
+        "categoria": "Higiene",
+        "dirigido_a": "Gato de cualquier edad",
+        "tipo": "Arena sanitaria",
+        "contenido": "2 kg",
+        "precio": "$95 MXN"
+      },
+      {
+        "nombre": "Shampoo Seco Fancy Pets",
+        "imagen": "https://faunaacuario.com.mx/wp-content/uploads/2024/11/fl3996.jpg",
+        "descripcion": "Shampoo en espuma sin enjuague para limpieza rápida.",
+        "categoria": "Higiene",
+        "dirigido_a": "Gato adulto",
+        "tipo": "Espuma",
+        "contenido": "200 ml",
+        "precio": "$170 MXN"
+      },
+      {
+        "nombre": "Cama Circular Zoomy Cat",
+        "imagen": "https://laikapp.s3.amazonaws.com/dev_images_products/3c6e1ad44f220e7ebb4f5d6d824f3e9f_1718908329.jpg",
+        "descripcion": "Cama redonda y acolchada con cubierta antideslizante.",
+        "categoria": "Descanso",
+        "dirigido_a": "Gato adulto",
+        "tipo": "Accesorio",
+        "contenido": "1 pieza",
+        "precio": "$420 MXN"
+      },
+      {
+        "nombre": "Transportadora Fancy Pets",
+        "imagen": "https://tse3.mm.bing.net/th/id/OIP.HmySssOu0kwIkeQhFnKFowHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Transportadora de plástico ventilada con asa superior.",
+        "categoria": "Transporte",
+        "dirigido_a": "Gato adulto o cachorro",
+        "tipo": "Accesorio",
+        "contenido": "1 unidad",
+        "precio": "$550 MXN"
+      },
+      {
+        "nombre": "Cepillo para Gato Zoomy",
+        "imagen": "https://tse1.mm.bing.net/th/id/OIP.TS90i8lHSnCGF4bGBwHAzgHaHI?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3",
+        "descripcion": "Cepillo con cerdas suaves y mango ergonómico.",
+        "categoria": "Higiene y cuidado",
+        "dirigido_a": "Gato adulto o gatito",
+        "tipo": "Cepillo",
+        "contenido": "1 pieza",
+        "precio": "$130 MXN"
+      }
+    ]
+  }
+}
